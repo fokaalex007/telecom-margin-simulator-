@@ -13,6 +13,19 @@ The model was designed in Excel to allow fast scenario testing, margin breakdown
 - Visual charts for margin trends and performance flags  
 - Clean layout for executive review and rapid iteration
 
+## 🖼️ Sample Visuals
+
+### Margin Simulation Dashboard  
+![Margin Dashboard](https://github.com/fokaalex007/telecom-margin-simulator-/raw/main/images/margin_dashboard.png)
+
+### Pivot Table Breakdown  
+![Pivot Table](https://github.com/fokaalex007/telecom-margin-simulator-/raw/main/images/pivot_table.png)
+
+### Country-Level Margin Chart  
+![Country Margin Chart](https://github.com/fokaalex007/telecom-margin-simulator-/raw/main/images/country_margin_chart.png)
+
+> _Note: These visuals are anonymized and representative of the original project._
+
 ## 📁 Files Included  
 - `raw_billing_data.xlsx`: Original anonymized billing data  
 - `cleaned_margin_model.xlsx`: Final simulation tool with formulas and visuals  
