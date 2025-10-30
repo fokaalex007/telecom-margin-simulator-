@@ -22,10 +22,10 @@ The model was designed in Excel to allow fast scenario testing, margin breakdown
 ![Gross Margin by Vendor](https://github.com/fokaalex007/telecom-margin-simulator-/raw/main/images/GM%20%25%20by%20Vendor.png)
 
 ### Gross Margin % by Client  
-![Gross Margin by Client](https://github.com/fokaalex007/telecom-margin-simulator-/raw/main/images/GM%20%25%20by%20Client.png)
+![Gross Margin by Client](https://github.com/fokaalex007/telecom-margin-simulator-/raw/main/images/Gross%20margin%20%25%20by%20client.png)
 
 ### Total Billed vs Vendor Cost  
-![Total Billed vs Vendor Cost](https://github.com/fokaalex007/telecom-margin-simulator-/raw/main/images/Total%20Billed%20vs%20Vendor%20Cost.png)
+![Total Billed vs Vendor Cost](https://github.com/fokaalex007/telecom-margin-simulator-/raw/main/images/total%20billed%20vs%20vendor%20cost.png)
 
 ### Total Cost per Vendor  
 ![Total Cost per Vendor](https://github.com/fokaalex007/telecom-margin-simulator-/raw/main/images/Total%20Cost%20per%20Vendor.png)
