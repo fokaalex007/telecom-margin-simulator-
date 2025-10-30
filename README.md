@@ -16,19 +16,19 @@ The model was designed in Excel to allow fast scenario testing, margin breakdown
 ## 🖼️ Sample Visuals
 
 ### Gross Margin % by Country  
-![Gross Margin by Country](images/gross_margin_by_country.png)
+![Gross Margin by Country](https://github.com/fokaalex007/telecom-margin-simulator-/raw/main/images/GM%20%25%20by%20Country.png)
 
 ### Gross Margin % by Vendor  
-![Gross Margin by Vendor](images/gross_margin_by_vendor.png)
+![Gross Margin by Vendor](https://github.com/fokaalex007/telecom-margin-simulator-/raw/main/images/GM%20%25%20by%20Vendor.png)
 
 ### Gross Margin % by Client  
-![Gross Margin by Client](images/gross_margin_by_client.png)
+![Gross Margin by Client](https://github.com/fokaalex007/telecom-margin-simulator-/raw/main/images/GM%20%25%20by%20Client.png)
 
 ### Total Billed vs Vendor Cost  
-![Total Billed vs Vendor Cost](images/total_billed_vs_vendor_cost.png)
+![Total Billed vs Vendor Cost](https://github.com/fokaalex007/telecom-margin-simulator-/raw/main/images/Total%20Billed%20vs%20Vendor%20Cost.png)
 
 ### Total Cost per Vendor  
-![Total Cost per Vendor](images/total_cost_per_vendor.png)
+![Total Cost per Vendor](https://github.com/fokaalex007/telecom-margin-simulator-/raw/main/images/Total%20Cost%20per%20Vendor.png)
 
 > _Note: These visuals are anonymized and representative of the original project._
 
